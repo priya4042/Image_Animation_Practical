@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "649VfSW2EIViKO/5HM9zBlk+kylO4+WCki6wnt7RgNuzo1pNjjaqy1FtcPMJIS/ENfZjP/7msHKY0XoPAHp0uA==",
+  "success": true,
+  "projectFilePath": "D:\\Project_Gif_Animation_Test\\Project_Gif_Animation_Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Priya\\.nuget\\packages\\magick.net-q16-anycpu\\13.2.0\\magick.net-q16-anycpu.13.2.0.nupkg.sha512",
+    "C:\\Users\\Priya\\.nuget\\packages\\magick.net.core\\13.2.0\\magick.net.core.13.2.0.nupkg.sha512",
+    "C:\\Users\\Priya\\.nuget\\packages\\skiasharp\\2.88.3\\skiasharp.2.88.3.nupkg.sha512",
+    "C:\\Users\\Priya\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.3\\skiasharp.nativeassets.macos.2.88.3.nupkg.sha512",
+    "C:\\Users\\Priya\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.3\\skiasharp.nativeassets.win32.2.88.3.nupkg.sha512"
+  ],
+  "logs": []
+}
